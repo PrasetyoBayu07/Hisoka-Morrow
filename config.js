@@ -10,18 +10,18 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://api.lolhuman.xyz': 'apikey Lhu',
+	'https://api.lolhuman.xyz': 'd9df6b8f942954aa4ee196ab',
 	'https://api.dapuhy.ga': 'regis dulu',
-	'https://zenzapi.xyz': 'regis dulu',
+	'https://zenzapi.xyz': 'DD17F062EC',
 }
 
 // Other
-global.owner = ['6288292024190','62882920241908']
-global.packname = 'Hisoka Morrow'
+global.owner = ['6285163600542']
+global.packname = 'Prasetyo Bayu'
 global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.sessionName = 'hisoka'
+global.sessionName = 'Bayu'
 global.connVersion = [2, 2142, 12]
-global.prefa = '!'
+global.prefa = '.'
 global.sp = '⭔'
 global.mess = {
     admin: 'Fitur Khusus Admin Group!',
